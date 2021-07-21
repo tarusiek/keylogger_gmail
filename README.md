@@ -3,6 +3,6 @@ Kisses!
 
 Michał.
 
-Start.py turning on keylogger.exe, and our copier.exe script.
-Copier.py copies keylogger.exe to autorun path.
-Keylogger.py is just using our script.
+# Start.py turning on keylogger.exe, and our copier.exe script.
+# Copier.py copies keylogger.exe to autorun path.
+# Keylogger.py is just using our script.
